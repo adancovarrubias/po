@@ -1,0 +1,28 @@
+ 
+h1 {
+
+font-size: 5em;
+font-family: 'Times New Roman';
+margin-bottom: 4rem;
+text-align: center;
+}
+
+ h2 {
+
+font-size: 2em;
+font-family: 'Times New Roman';
+margin-bottom: 2rem;
+text-align: center;
+}
+
+
+body {
+ 	font-size: 20px;
+ 	font-family: 'Times New Roman';
+ 	color: gray;
+ 	text-align: justify center;
+ 	margin: 300px;
+
+ }
+
+ 
