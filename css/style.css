@@ -25,4 +25,47 @@ body {
 
  }
 
+ #top {
+ 	background-color: #ccc;
+ 	padding: 20px
+ }
+
+ .intro {
+ 	color: red;
+ 	font-weight: bold;
+ }
+
+ .square {
+ 	color: red;
+ 	font-weight: bold;
+ 	height: 5rem;
+ 	background: #0a5a79
+
+ }
  
+  a.boton {
+ 	display: block;
+ 	width: 8rem;
+ 	text-align: center;
+ 	background: #0a5a79;
+ 	text-decoration: none;
+ 	color: blue;
+ 	margin: 13px auto;
+
+ }
+
+.boton:hover {
+	background: #0a5a79;
+
+}
+
+.boton:visited {
+	background: #690a90;
+
+}
+
+.boton:active {
+	background: #a7e662;
+
+}
+
